@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @irsocafuso
 - 👀 I’m interested in ReactJS, VueJS, Angular, Python, PHP, NodeJS, MySQL, SQL Server, MongoDB, Firebase, Ansible, Terraform, APIs, Websocket, RabbitMQ, AWS and more...
-- 🌱 I’m currently learning ReactJS.
 - 📫 Email: wilsinho_sanches@hotmail.com
 
 <!---
